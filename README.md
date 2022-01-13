@@ -3,7 +3,7 @@ This is an interactive Chatbot for conversing with the customer. <br>
 
 Zomato Chatbot <br>
 
-. <br>
+&nbsp; . <br>
 &nbsp; |-------static <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;|-------base.html <br>
 &nbsp; |-------templates <br>
