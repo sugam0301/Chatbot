@@ -42,6 +42,7 @@ app.js - Contains 3 functions as there are 3 actions:
 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1. Opening the chatbox   2. Sending to chatbot  3.Toggling the state for the bot to reply.
 <br>
 
+
         
 
 
